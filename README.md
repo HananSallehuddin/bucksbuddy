@@ -1,16 +1,22 @@
 # bucks_buddy
 
-A new Flutter project.
+Bucks Buddy
 
-## Getting Started
+Description:
+Bucks Buddy is a debt management application designed to help users easily track and manage shared expenses among friends or groups. It simplifies recording, monitoring, and settling debts in an organized and transparent manner.
 
-This project is a starting point for a Flutter application.
+Features:
+	•	Debt Recording: Add, edit, and view outstanding debts.
+	•	Adding Friends: Easily connect with friends to manage shared expenses 
+	•	Settlement Tracking: Track payments and mark debts as settled.
+	•	Reminders: Notify users about upcoming or overdue payments.
 
-A few resources to get you started if this is your first Flutter project:
+Tech Stack:
+	•	Frontend: Flutter (Dart)
+	•	Backend: Firebase Firestore and Authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My Contribution:
+In this group project, I was responsible for the Adding Friends feature, which includes:
+	•	Implementing the interface for adding new friends.
+	•	Ensuring proper validation for friend requests.
+	•	Integrating the feature with Firebase for data storage and retrieval.
